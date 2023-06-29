@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/anshu/mlflow/mlruns/0/da6febd36e474f3bab5e5a97583184b4/artifacts
+end_time: 1688035575927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da6febd36e474f3bab5e5a97583184b4
+run_name: worried-bee-236
+run_uuid: da6febd36e474f3bab5e5a97583184b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688035572945
+status: 3
+tags: []
+user_id: anshu
